@@ -1,3 +1,3 @@
-# AdvancedPythonOperations
+# Machine Learning in Python
 
-<p>Includes the advanced operations on arrays and numbers using python.</p>
+<p>Machine learning projects implemented using python language.</p>
